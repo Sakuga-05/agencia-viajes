@@ -1,0 +1,7 @@
+# Credenciales
+.env
+
+# Dependencias y entornos
+node_modules/
+.venv/
+__pycache__/
